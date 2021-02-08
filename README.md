@@ -1,0 +1,1 @@
+Esta pasta conterá a totalidade de todos os exercícios propostos pela Trybe durante o meu curso de desenvolvimento web full stack, de forma totalmente organizada por pastas com indicação do grupo (conteúdo) que que se está a estudar.
